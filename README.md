@@ -10,7 +10,7 @@ covid-19-tracker/
 │   └── owid-covid-data.csv  # Source dataset
 ├── notebooks/               # Jupyter notebooks with analysis
 │   └── COVID-19_Analysis.ipynb
-├── reports/                 # Generated reports and visualizations
+├──  index.ipynb reports/    # Generated reports and visualizations
 ├── README.md                # This file
 └── requirements.txt         # Python dependencies
 ```
